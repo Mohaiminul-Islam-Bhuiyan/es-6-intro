@@ -30,7 +30,7 @@ const [first, another] = [44, 99, 78, 99];
 console.log(first, another)
 
 const nayoks = ['sakib', 'bappi', 'raj'];
-const [king, lost , notun] = nayoks;
+const [king, lost, notun] = nayoks;
 console.log(notun);
 
 function getNames(){
